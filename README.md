@@ -99,7 +99,7 @@ Data suggest anonymous comments and rating are a very meaningful population in t
 
 ### Named and Anonymous ratings
 
-A visual attempt to highlight distribution of data, considering Named Vs Anonymous ration and total average rating. To help visually distinguish positively-rated talks from negatively-rated talk, the following threshold are set:
+A visual attempt to highlight distribution of data, considering Named Vs Anonymous ratio and total average rating. To help visually distinguish positively-rated talks from negatively-rated talk, the following threshold are set:
 
 
 ```r
